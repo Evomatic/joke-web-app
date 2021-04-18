@@ -8,7 +8,7 @@ This is a simple web app that fetches and displays jokes from an API.
 
 Click on the "click to get a joke!" button to display the joke!
 
-![joke wep app](/home/evomatic/Documents/coding/vue-practice/vue-practice/joke-web-app/images/programming projects.png)
+![joke wep app](joke-web-app/images/programming%20projects.png)
 
 ## Enviroment
 
